@@ -1,8 +1,9 @@
 {
   "expo": {
-    "name": "my-expo-app",
-    "slug": "my-expo-app",
-    "version": "1.0.0",
+    "name": "gene",
+    "slug": "gene",
+    "scheme" : "gene",
+    "version": "0.1.0",
     "web": {
       "favicon": "./assets/favicon.png"
     },
@@ -13,7 +14,7 @@
       "expo-router"
     ],
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/images/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
