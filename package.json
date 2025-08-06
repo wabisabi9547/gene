@@ -11,6 +11,7 @@
     "web": "DARK_MODE=media expo start --web"
   },
   "dependencies": {
+    "@expo/vector-icons": "^14.1.0",
     "@gluestack-ui/button": "^1.0.14",
     "@gluestack-ui/icon": "^0.1.27",
     "@gluestack-ui/nativewind-utils": "^1.0.26",
@@ -21,6 +22,7 @@
     "expo-file-system": "~18.1.11",
     "expo-router": "~5.1.4",
     "expo-splash-screen": "~0.30.10",
+    "expo-sqlite": "~15.2.14",
     "expo-status-bar": "~2.2.3",
     "nativewind": "^4.1.23",
     "react": "19.0.0",
